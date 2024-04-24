@@ -52,8 +52,8 @@ QR_Decomposition(a)
 ```
 
 ## Output
+![Uploading image.png…]()
 
-![image](https://github.com/harshiniyu/QRdecomposition/assets/144979786/b10cd55a-d2a6-471f-a4d5-38bd771a38b3)
 
 
 ## Result
